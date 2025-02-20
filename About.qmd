@@ -18,4 +18,4 @@ You are welcome to:
 
 ## Our GitHub repository
 
-<https://github.com/nicki-clarkson/Open-Research-resources>
+<https://github.com/UniSotonLibrary/Open-Research-resources>

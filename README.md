@@ -5,30 +5,3 @@ This self-study module was created by the Open Research & Publication Practice T
 I (Nicki Clarkson, Engagement Librarian) am on a journey learning how to use Quarto and GitHub and would be very willing to answer any of your questions or chat through my experiences.
 
 You are welcome to reuse any/all of the text or files and we do not require attribution.
-
-## Installation
-
-To use this project, you can clone the repository:
-
-``` bash
-
-git clone https://github.com/UniSotonLibrary/Open-Research-resources.git
-```
-
-# Install required packages in R
-
-``` r
-install.packages(“quarto”)
-```
-
-## Usage
-
-To render the project, use the following command in RStudio:
-
-``` r
-quarto::quarto_render()
-```
-
-## Project Structure
-
-## License
