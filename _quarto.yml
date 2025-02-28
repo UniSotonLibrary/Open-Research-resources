@@ -16,6 +16,7 @@ project:
   
   
 website: 
+  google-analytics: "G-03NMS3CZ0X"
   title: "Introduction to Open Research"
   repo-url: https://unisotonlibrary.github.io/Open-Research-resources
   repo-branch: main
@@ -59,5 +60,6 @@ format:
     toc-depth: 3
     toc-expand: true
     standalone: true
+    
 editor: visual
 
